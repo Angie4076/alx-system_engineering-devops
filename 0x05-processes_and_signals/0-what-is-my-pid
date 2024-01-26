@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+#Displays own PID
+
+while "true"
+do
+echo "0-what-is-my-pid"
+sleep 2
+done
